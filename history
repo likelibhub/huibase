@@ -1,0 +1,69 @@
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S14
+VERSION CREATE DATE: Thu Aug 16 15:00 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > hctime c++ template strtime.
+
+PLAN:
+
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S12
+VERSION CREATE DATE: Sat Jul 28 1500 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > update redis lib;
+
+PLAN:
+        > check redis's memory;
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S11
+VERSION CREATE DATE: Sat Jul 28 1500 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > rebuild huidb;
+
+PLAN:
+
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S10
+VERSION CREATE DATE: Thu Jul 26 1500 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Memcached increment/decrement.
+
+PLAN:
+        > Add int64_t, uint64_t to base.
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S7
+VERSION CREATE DATE: Sat Jun 23 1500 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Memcached buffer length to 20480
+
+
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S6
+VERSION CREATE DATE: Sat Jun 23 1500 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Convert k-v string with HCParam;
+
+=================================================================================
+PROJECT NAME: HUIBASE
+VERSION CODE: V1S5
+VERSION CREATE DATE: Sat Jun 23 0922 CST 2018
+VERSION AUTHOR: Tom Hui 8613760232170. tomhui1009@yahoo.com
+VERSION COMMENT:
+        > Fix the bug that hlog shift day, it cann't change the size file name;
